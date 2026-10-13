@@ -1,0 +1,24 @@
+DECLARE tehCukup : BOOLEAN
+
+// Algoritma ini digunakan untuk menuangkan teh ke dalam gelas hingga jumlah teh yang dituangkan
+
+MULAI
+
+    Siapkan teko yang berisi teh
+    Siapkan gelas kosong
+
+    tehCukup <= FALSE
+
+    WHILE tehCukup = FALSE DO
+        Tuangkan teh ke dalam gelas
+
+        IF gelas sudah penuh THEN
+            tehCukup <= TRUE
+        
+        ENDIF
+    ENDWHILE
+
+    Tegakkan kembali tekonya
+    Letakkan teko kembali ke tempatnya
+
+SELESAI
