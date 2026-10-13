@@ -21,4 +21,4 @@ flowchart TD
     D -- Ya --> E[Tegakkan teko]
     E --> F([Selesai])
     D -- Tidak --> C
-```Penutup
+```
