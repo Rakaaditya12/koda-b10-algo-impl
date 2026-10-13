@@ -9,7 +9,7 @@
 7. Kalau teh sudah cukup, tegakkan kembali tekonya
 8. Letakkan teko kembali ke tempatnya
 9. Pastikan gelas sudah terisi teh sesuai keinginan
-   10.Selesai
+10. Selesai
 
 ## Cara menuangkan teh
 
