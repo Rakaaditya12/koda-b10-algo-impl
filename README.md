@@ -1,4 +1,4 @@
-# **_menuangkan teh dari teko ke dalam gelas kosong_**
+# **menuangkan teh dari teko ke dalam gelas kosong**
 
 1. Mulai
 2. Siapkan teko yang berisi teh dan satu gelas kosong
